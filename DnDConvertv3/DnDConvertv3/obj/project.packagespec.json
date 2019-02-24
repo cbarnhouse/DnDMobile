@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "D:\\Christopher\\Documents\\Visual Studio Projects\\DnDConvertv3\\DnDConvertv3\\DnDConvertv3\\DnDConvertv3.csproj",
+    "projectUniqueName": "D:\\Christopher\\Documents\\DnDMobile\\DnDConvertv3\\DnDConvertv3\\DnDConvertv3.csproj",
     "projectName": "DnDConvertv3",
-    "projectPath": "D:\\Christopher\\Documents\\Visual Studio Projects\\DnDConvertv3\\DnDConvertv3\\DnDConvertv3\\DnDConvertv3.csproj",
-    "outputPath": "D:\\Christopher\\Documents\\Visual Studio Projects\\DnDConvertv3\\DnDConvertv3\\DnDConvertv3\\obj\\",
+    "projectPath": "D:\\Christopher\\Documents\\DnDMobile\\DnDConvertv3\\DnDConvertv3\\DnDConvertv3.csproj",
+    "outputPath": "D:\\Christopher\\Documents\\DnDMobile\\DnDConvertv3\\DnDConvertv3\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

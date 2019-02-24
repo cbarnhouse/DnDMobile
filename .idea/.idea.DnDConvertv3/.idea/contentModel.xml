@@ -24,8 +24,8 @@
       <e p="proguard.txt" t="Include" />
     </e>
     <e p="C:\Users\Christopher\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Christopher\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_DnDConvertv3.-851064473.00" t="ExcludeRecursive" />
-    <e p="D:\Christopher\Documents\Visual Studio Projects\DnDConvertv3" t="IncludeFlat">
+    <e p="C:\Users\Christopher\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_DnDConvertv3.-1935733319.00" t="ExcludeRecursive" />
+    <e p="D:\Christopher\Documents\DnDMobile" t="IncludeFlat">
       <e p="DnDConvertv3\DnDConvertv3" t="IncludeRecursive">
         <e p="App.xaml" t="Include" />
         <e p="App.xaml.cs" t="Include" />
@@ -41,8 +41,6 @@
             </e>
           </e>
         </e>
-        <e p="Page1.xaml" t="Include" />
-        <e p="Page1.xaml.cs" t="Include" />
         <e p="ResultsPage.xaml" t="Include" />
         <e p="ResultsPage.xaml.cs" t="Include" />
       </e>

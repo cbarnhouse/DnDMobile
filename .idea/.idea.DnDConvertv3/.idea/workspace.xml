@@ -1,12 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cc33e17-408f-4462-9b4c-55ce126a8e3f" name="Default Changelist" comment="" />
+    <list default="true" id="7cc33e17-408f-4462-9b4c-55ce126a8e3f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DnDConvertv3/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DnDConvertv3/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DnDConvertv3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DnDConvertv3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/MainActivity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/MainActivity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/bin/Debug/DnDConvertv3.Android.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/bin/Debug/DnDConvertv3.Android.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/bin/Debug/DnDConvertv3.Android.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/bin/Debug/DnDConvertv3.Android.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/bin/Debug/DnDConvertv3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/bin/Debug/DnDConvertv3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/bin/Debug/DnDConvertv3.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/bin/Debug/DnDConvertv3.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/bin/Debug/DnDConvertv3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/bin/Debug/DnDConvertv3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/bin/Debug/com.companyname.DnDConvertv3-Signed.apk" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/bin/Debug/com.companyname.DnDConvertv3-Signed.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/bin/Debug/com.companyname.DnDConvertv3.apk" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/bin/Debug/com.companyname.DnDConvertv3.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/obj/Debug/81/DnDConvertv3.Android.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/obj/Debug/81/DnDConvertv3.Android.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/obj/Debug/81/build.props" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/obj/Debug/81/build.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/obj/DnDConvertv3.Android.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/obj/DnDConvertv3.Android.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/obj/DnDConvertv3.Android.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/obj/DnDConvertv3.Android.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.UWP/obj/DnDConvertv3.UWP.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.UWP/obj/DnDConvertv3.UWP.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.UWP/obj/DnDConvertv3.UWP.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.UWP/obj/DnDConvertv3.UWP.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.UWP/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.UWP/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.iOS/obj/DnDConvertv3.iOS.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.iOS/obj/DnDConvertv3.iOS.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.iOS/obj/DnDConvertv3.iOS.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.iOS/obj/DnDConvertv3.iOS.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.iOS/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.iOS/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/DnDConvertv3.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/DnDConvertv3.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/MainPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/MainPage.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/Page1.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/Page1.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/bin/Debug/netstandard2.0/DnDConvertv3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/bin/Debug/netstandard2.0/DnDConvertv3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/bin/Debug/netstandard2.0/DnDConvertv3.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/bin/Debug/netstandard2.0/DnDConvertv3.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/bin/Debug/netstandard2.0/DnDConvertv3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/bin/Debug/netstandard2.0/DnDConvertv3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/obj/Debug/netstandard2.0/DnDConvertv3.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/obj/Debug/netstandard2.0/DnDConvertv3.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/obj/Debug/netstandard2.0/DnDConvertv3.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/obj/Debug/netstandard2.0/DnDConvertv3.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/obj/Debug/netstandard2.0/DnDConvertv3.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/obj/Debug/netstandard2.0/DnDConvertv3.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/obj/Debug/netstandard2.0/DnDConvertv3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/obj/Debug/netstandard2.0/DnDConvertv3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/obj/Debug/netstandard2.0/DnDConvertv3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/obj/Debug/netstandard2.0/DnDConvertv3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/obj/DnDConvertv3.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/obj/DnDConvertv3.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/obj/DnDConvertv3.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/obj/DnDConvertv3.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/App.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+              <folding>
+                <marker date="1551021849891" expanded="false" signature="6:60" ph="..." />
+                <marker date="1551021849891" expanded="true" signature="144:794" ph="{...}" />
+                <marker date="1551021849891" expanded="true" signature="189:792" ph="{...}" />
+                <marker date="1551021849891" expanded="true" signature="216:466" ph="{...}" />
+                <marker date="1551021849891" expanded="true" signature="333:455" ph="{...}" />
+                <marker date="1551021849891" expanded="true" signature="509:572" ph="{...}" />
+                <marker date="1551021849891" expanded="true" signature="615:678" ph="{...}" />
+                <marker date="1551021849891" expanded="true" signature="722:786" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/MainActivity.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding>
+                <marker date="1551022010599" expanded="false" signature="6:143" ph="..." />
+                <marker date="1551022010599" expanded="true" signature="173:838" ph="{...}" />
+                <marker date="1551022010599" expanded="true" signature="465:836" ph="{...}" />
+                <marker date="1551022010599" expanded="true" signature="539:830" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/Resources/values/styles.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/MainPage.xaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+              <folding>
+                <marker date="1551020990473" expanded="true" signature="40:4375" ph="&lt;&lt;ContentPage.ToolbarItems&gt;&#10;        &lt;ToolbarItem Name=&quot;Clear&quot; Order=&quot;Primary&quot; Text=&quot;Clear&quot; Priority=&quot;0&quot; Activated=&quot;Clear_Activated&quot;/&gt;&#10;    &lt;/ContentPage.ToolbarItems&gt; &lt;ScrollView&gt;&#10;        &lt;Grid RowSpacing=&quot;7&quot; ColumnSpacing=&quot;10&quot; HorizontalOptions=&quot;FillAndExpand&quot; VerticalOptions=&quot;FillAndExpand&quot;&gt;&#10;            &lt;Grid.RowDefinitions&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;*&quot; /&gt;&#10;            &lt;/Grid.RowDefinitions&gt;&#10;            &lt;Grid.ColumnDefinitions&gt;&#10;                &lt;ColumnDefinition Width=&quot;5*&quot;/&gt;&#10;                &lt;ColumnDefinition Width=&quot;5*&quot;/&gt;&#10;            &lt;/Grid.ColumnDefinitions&gt;&#10;&#10;&#10;&#10;            &lt;!-- Copper --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;1&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;            &lt;Label Text=&quot;Copper&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;1&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot; /&gt;&#10;            &lt;Entry x:Name=&quot;copperEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;1&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt;&#10;&#10;            &lt;!-- Silver --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;2&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;            &lt;Label Text=&quot;Silver&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;2&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt;&#10;            &lt;Entry x:Name=&quot;silverEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;2&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt;&#10;&#10;            &lt;!-- Electrum --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;3&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;            &lt;Label Text=&quot;Electrum&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;3&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt;&#10;            &lt;Entry x:Name=&quot;electrumEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;3&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt;&#10;&#10;            &lt;!-- Gold --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;4&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;            &lt;Label Text=&quot;Gold&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;4&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt;&#10;            &lt;Entry x:Name=&quot;goldEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;4&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt;&#10;&#10;            &lt;!-- Platinum --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;5&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;            &lt;Label Text=&quot;Platinum&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;5&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt;&#10;            &lt;Entry x:Name=&quot;platinumEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;5&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt;&#10;&#10;            &lt;!-- Team Size --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;6&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;            &lt;Label Text=&quot;Team size&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;6&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt;&#10;            &lt;Entry x:Name=&quot;teamSizeEntry&quot; Placeholder=&quot;Optional&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;6&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt;&#10;&#10;            &lt;!-- Calculate --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;7&quot; Grid.ColumnSpan=&quot;2&quot; HeightRequest=&quot;70&quot; /&gt;&#10;            &lt;Button Clicked=&quot;RecalculateResult&quot; Grid.Row=&quot;7&quot; Grid.ColumnSpan=&quot;2&quot; Text=&quot;Calculate&quot; HorizontalOptions=&quot;Center&quot; VerticalOptions=&quot;Center&quot; HeightRequest=&quot;40&quot; WidthRequest=&quot;250&quot; TextColor=&quot;Teal&quot; BackgroundColor=&quot;##191919&quot;/&gt;&#10;&#10;        &lt;/Grid&gt;&#10;&#10;&#10;    &lt;/ScrollView&gt;.../&gt;" />
+                <marker date="1551020990473" expanded="true" signature="348:497" ph="&lt;&lt;ToolbarItem Name=&quot;Clear&quot; Order=&quot;Primary&quot; Text=&quot;Clear&quot; Priority=&quot;0&quot; Activated=&quot;Clear_Activated&quot;/&gt;.../&gt;" />
+                <marker date="1551020990473" expanded="true" signature="503:4360" ph="&lt;&lt;Grid RowSpacing=&quot;7&quot; ColumnSpacing=&quot;10&quot; HorizontalOptions=&quot;FillAndExpand&quot; VerticalOptions=&quot;FillAndExpand&quot;&gt;&#10;            &lt;Grid.RowDefinitions&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;*&quot; /&gt;&#10;            &lt;/Grid.RowDefinitions&gt;&#10;            &lt;Grid.ColumnDefinitions&gt;&#10;                &lt;ColumnDefinition Width=&quot;5*&quot;/&gt;&#10;                &lt;ColumnDefinition Width=&quot;5*&quot;/&gt;&#10;            &lt;/Grid.ColumnDefinitions&gt;&#10;&#10;&#10;&#10;            &lt;!-- Copper --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;1&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;            &lt;Label Text=&quot;Copper&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;1&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot; /&gt;&#10;            &lt;Entry x:Name=&quot;copperEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;1&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt;&#10;&#10;            &lt;!-- Silver --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;2&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;            &lt;Label Text=&quot;Silver&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;2&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt;&#10;            &lt;Entry x:Name=&quot;silverEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;2&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt;&#10;&#10;            &lt;!-- Electrum --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;3&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;            &lt;Label Text=&quot;Electrum&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;3&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt;&#10;            &lt;Entry x:Name=&quot;electrumEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;3&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt;&#10;&#10;            &lt;!-- Gold --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;4&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;            &lt;Label Text=&quot;Gold&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;4&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt;&#10;            &lt;Entry x:Name=&quot;goldEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;4&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt;&#10;&#10;            &lt;!-- Platinum --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;5&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;            &lt;Label Text=&quot;Platinum&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;5&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt;&#10;            &lt;Entry x:Name=&quot;platinumEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;5&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt;&#10;&#10;            &lt;!-- Team Size --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;6&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;            &lt;Label Text=&quot;Team size&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;6&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt;&#10;            &lt;Entry x:Name=&quot;teamSizeEntry&quot; Placeholder=&quot;Optional&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;6&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt;&#10;&#10;            &lt;!-- Calculate --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;7&quot; Grid.ColumnSpan=&quot;2&quot; HeightRequest=&quot;70&quot; /&gt;&#10;            &lt;Button Clicked=&quot;RecalculateResult&quot; Grid.Row=&quot;7&quot; Grid.ColumnSpan=&quot;2&quot; Text=&quot;Calculate&quot; HorizontalOptions=&quot;Center&quot; VerticalOptions=&quot;Center&quot; HeightRequest=&quot;40&quot; WidthRequest=&quot;250&quot; TextColor=&quot;Teal&quot; BackgroundColor=&quot;##191919&quot;/&gt;&#10;&#10;        &lt;/Grid&gt;.../&gt;" />
+                <marker date="1551020990473" expanded="true" signature="524:4340" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;*&quot; /&gt;&#10;            &lt;/Grid.RowDefinitions&gt; &lt;Grid.ColumnDefinitions&gt;&#10;                &lt;ColumnDefinition Width=&quot;5*&quot;/&gt;&#10;                &lt;ColumnDefinition Width=&quot;5*&quot;/&gt;&#10;            &lt;/Grid.ColumnDefinitions&gt; &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;1&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt; &lt;Label Text=&quot;Copper&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;1&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot; /&gt; &lt;Entry x:Name=&quot;copperEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;1&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt; &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;2&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt; &lt;Label Text=&quot;Silver&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;2&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt; &lt;Entry x:Name=&quot;silverEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;2&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt; &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;3&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt; &lt;Label Text=&quot;Electrum&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;3&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt; &lt;Entry x:Name=&quot;electrumEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;3&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt; &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;4&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt; &lt;Label Text=&quot;Gold&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;4&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt; &lt;Entry x:Name=&quot;goldEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;4&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt; &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;5&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt; &lt;Label Text=&quot;Platinum&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;5&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt; &lt;Entry x:Name=&quot;platinumEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;5&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt; &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;6&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt; &lt;Label Text=&quot;Team size&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;6&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt; &lt;Entry x:Name=&quot;teamSizeEntry&quot; Placeholder=&quot;Optional&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;6&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt; &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;7&quot; Grid.ColumnSpan=&quot;2&quot; HeightRequest=&quot;70&quot; /&gt; &lt;Button Clicked=&quot;RecalculateResult&quot; Grid.Row=&quot;7&quot; Grid.ColumnSpan=&quot;2&quot; Text=&quot;Calculate&quot; HorizontalOptions=&quot;Center&quot; VerticalOptions=&quot;Center&quot; HeightRequest=&quot;40&quot; WidthRequest=&quot;250&quot; TextColor=&quot;Teal&quot; BackgroundColor=&quot;##191919&quot;/&gt;.../&gt;" />
+                <marker date="1551020990473" expanded="true" signature="643:1080" ph="&lt;&lt;RowDefinition Height=&quot;AUTO&quot; /&gt; &lt;RowDefinition Height=&quot;AUTO&quot; /&gt; &lt;RowDefinition Height=&quot;AUTO&quot; /&gt; &lt;RowDefinition Height=&quot;AUTO&quot; /&gt; &lt;RowDefinition Height=&quot;AUTO&quot; /&gt; &lt;RowDefinition Height=&quot;AUTO&quot; /&gt; &lt;RowDefinition Height=&quot;AUTO&quot; /&gt; &lt;RowDefinition Height=&quot;*&quot; /&gt;.../&gt;" />
+                <marker date="1551020990473" expanded="true" signature="1093:1249" ph="&lt;&lt;ColumnDefinition Width=&quot;5*&quot;/&gt; &lt;ColumnDefinition Width=&quot;5*&quot;/&gt;.../&gt;" />
+                <marker date="1551020990473" expanded="true" signature="1407:1554" ph="&lt;.../&gt;" />
+                <marker date="1551020990473" expanded="true" signature="1853:1999" ph="&lt;.../&gt;" />
+                <marker date="1551020990473" expanded="true" signature="2300:2448" ph="&lt;.../&gt;" />
+                <marker date="1551020990473" expanded="true" signature="2747:2891" ph="&lt;.../&gt;" />
+                <marker date="1551020990473" expanded="true" signature="3190:3338" ph="&lt;.../&gt;" />
+                <marker date="1551020990473" expanded="true" signature="3642:3791" ph="&lt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/MainPage.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/MainPage.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/MainActivity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/App.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/MainPage.xaml" />
+        <option value="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/App.xaml.cs" />
+        <option value="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/MainActivity.cs" />
+      </list>
+    </option>
   </component>
   <component name="InvalidFacetManager">
     <ignored-facets>
@@ -14,8 +136,8 @@
     </ignored-facets>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
+    <option name="x" value="213" />
+    <option name="y" value="21" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -24,8 +146,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -33,11 +153,29 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="DnDConvertv3" type="24d0babc:SolutionExplorerModelNode" />
             </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DnDConvertv3" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DnDConvertv3" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DnDConvertv3" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DnDConvertv3" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="App.xaml" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DnDConvertv3" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DnDConvertv3.Android" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -45,7 +183,7 @@
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -59,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="UWP.UWP Default">
+  <component name="RunManager" selected="Xamarin.Android.Android Default">
     <configuration name="UWP Default" type="UwpProject" factoryName="UWP">
       <option name="PROJECT_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -68,11 +206,11 @@
       </method>
     </configuration>
     <configuration name="Android Default" type="XamarinAndroidProject" factoryName="Xamarin.Android">
-      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/DnDConvertv3.Android.csproj" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
+      <option name="PREFERRED_AVD" value="4_WVGA_Nexus_S_API_27_480x800_4in_8.1_oreo_" />
       <option name="DEPLOY_BEHAVIOUR_NAME" value="Default" />
       <method v="2">
         <option name="Build" enabled="true" />
@@ -99,11 +237,12 @@
       <updated>1551018262644</updated>
       <workItem from="1551018268503" duration="185000" />
       <workItem from="1551018693801" duration="607000" />
+      <workItem from="1551019646969" duration="2479000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="792000" />
+    <option name="totallyTimeSpent" value="3271000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -115,17 +254,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="20" width="1400" height="1000" extended-state="0" />
+    <frame x="246" y="45" width="1400" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Captures" order="5" />
+      <window_info anchor="bottom" id="Build" weight="0.32936978" />
+      <window_info anchor="bottom" id="XAML Preview" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936978" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -147,7 +289,7 @@
       <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Unit Tests Coverage" order="6" />
-      <window_info anchor="right" id="Errors In Solution" order="7" />
+      <window_info anchor="right" id="Errors In Solution" order="7" weight="0.32985073" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,5 +306,106 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/Page1.xaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/MainPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <marker date="1549319624240" expanded="false" signature="6:136" ph="..." />
+            <marker date="1549319624240" expanded="true" signature="160:10655" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="210:10653" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="562:4933" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="691:747" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="764:854" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="973:1029" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="1046:1136" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="1259:1317" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="1334:1428" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="1543:1597" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="1614:1700" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="1823:1881" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="1898:1992" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="2145:2203" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="2220:2312" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="3621:4137" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="3711:4121" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="4176:4850" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="4234:4836" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="4335:4816" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="5220:9535" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="6873:7402" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="7440:7634" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="7672:9074" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="8023:8099" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="8175:8407" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="8463:8928" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="8543:8909" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="9131:9218" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="9563:10346" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="10069:10127" ph="{...}" />
+            <marker date="1549319624240" expanded="true" signature="10412:10647" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/MainPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <marker date="1551020990473" expanded="true" signature="40:4375" ph="&lt;&lt;ContentPage.ToolbarItems&gt;&#10;        &lt;ToolbarItem Name=&quot;Clear&quot; Order=&quot;Primary&quot; Text=&quot;Clear&quot; Priority=&quot;0&quot; Activated=&quot;Clear_Activated&quot;/&gt;&#10;    &lt;/ContentPage.ToolbarItems&gt; &lt;ScrollView&gt;&#10;        &lt;Grid RowSpacing=&quot;7&quot; ColumnSpacing=&quot;10&quot; HorizontalOptions=&quot;FillAndExpand&quot; VerticalOptions=&quot;FillAndExpand&quot;&gt;&#10;            &lt;Grid.RowDefinitions&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;*&quot; /&gt;&#10;            &lt;/Grid.RowDefinitions&gt;&#10;            &lt;Grid.ColumnDefinitions&gt;&#10;                &lt;ColumnDefinition Width=&quot;5*&quot;/&gt;&#10;                &lt;ColumnDefinition Width=&quot;5*&quot;/&gt;&#10;            &lt;/Grid.ColumnDefinitions&gt;&#10;&#10;&#10;&#10;            &lt;!-- Copper --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;1&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;            &lt;Label Text=&quot;Copper&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;1&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot; /&gt;&#10;            &lt;Entry x:Name=&quot;copperEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;1&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt;&#10;&#10;            &lt;!-- Silver --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;2&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;            &lt;Label Text=&quot;Silver&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;2&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt;&#10;            &lt;Entry x:Name=&quot;silverEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;2&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt;&#10;&#10;            &lt;!-- Electrum --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;3&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;            &lt;Label Text=&quot;Electrum&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;3&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt;&#10;            &lt;Entry x:Name=&quot;electrumEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;3&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt;&#10;&#10;            &lt;!-- Gold --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;4&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;            &lt;Label Text=&quot;Gold&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;4&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt;&#10;            &lt;Entry x:Name=&quot;goldEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;4&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt;&#10;&#10;            &lt;!-- Platinum --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;5&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;            &lt;Label Text=&quot;Platinum&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;5&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt;&#10;            &lt;Entry x:Name=&quot;platinumEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;5&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt;&#10;&#10;            &lt;!-- Team Size --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;6&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;            &lt;Label Text=&quot;Team size&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;6&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt;&#10;            &lt;Entry x:Name=&quot;teamSizeEntry&quot; Placeholder=&quot;Optional&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;6&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt;&#10;&#10;            &lt;!-- Calculate --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;7&quot; Grid.ColumnSpan=&quot;2&quot; HeightRequest=&quot;70&quot; /&gt;&#10;            &lt;Button Clicked=&quot;RecalculateResult&quot; Grid.Row=&quot;7&quot; Grid.ColumnSpan=&quot;2&quot; Text=&quot;Calculate&quot; HorizontalOptions=&quot;Center&quot; VerticalOptions=&quot;Center&quot; HeightRequest=&quot;40&quot; WidthRequest=&quot;250&quot; TextColor=&quot;Teal&quot; BackgroundColor=&quot;##191919&quot;/&gt;&#10;&#10;        &lt;/Grid&gt;&#10;&#10;&#10;    &lt;/ScrollView&gt;.../&gt;" />
+            <marker date="1551020990473" expanded="true" signature="348:497" ph="&lt;&lt;ToolbarItem Name=&quot;Clear&quot; Order=&quot;Primary&quot; Text=&quot;Clear&quot; Priority=&quot;0&quot; Activated=&quot;Clear_Activated&quot;/&gt;.../&gt;" />
+            <marker date="1551020990473" expanded="true" signature="503:4360" ph="&lt;&lt;Grid RowSpacing=&quot;7&quot; ColumnSpacing=&quot;10&quot; HorizontalOptions=&quot;FillAndExpand&quot; VerticalOptions=&quot;FillAndExpand&quot;&gt;&#10;            &lt;Grid.RowDefinitions&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;*&quot; /&gt;&#10;            &lt;/Grid.RowDefinitions&gt;&#10;            &lt;Grid.ColumnDefinitions&gt;&#10;                &lt;ColumnDefinition Width=&quot;5*&quot;/&gt;&#10;                &lt;ColumnDefinition Width=&quot;5*&quot;/&gt;&#10;            &lt;/Grid.ColumnDefinitions&gt;&#10;&#10;&#10;&#10;            &lt;!-- Copper --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;1&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;            &lt;Label Text=&quot;Copper&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;1&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot; /&gt;&#10;            &lt;Entry x:Name=&quot;copperEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;1&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt;&#10;&#10;            &lt;!-- Silver --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;2&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;            &lt;Label Text=&quot;Silver&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;2&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt;&#10;            &lt;Entry x:Name=&quot;silverEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;2&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt;&#10;&#10;            &lt;!-- Electrum --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;3&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;            &lt;Label Text=&quot;Electrum&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;3&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt;&#10;            &lt;Entry x:Name=&quot;electrumEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;3&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt;&#10;&#10;            &lt;!-- Gold --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;4&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;            &lt;Label Text=&quot;Gold&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;4&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt;&#10;            &lt;Entry x:Name=&quot;goldEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;4&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt;&#10;&#10;            &lt;!-- Platinum --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;5&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;            &lt;Label Text=&quot;Platinum&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;5&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt;&#10;            &lt;Entry x:Name=&quot;platinumEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;5&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt;&#10;&#10;            &lt;!-- Team Size --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;6&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;            &lt;Label Text=&quot;Team size&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;6&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt;&#10;            &lt;Entry x:Name=&quot;teamSizeEntry&quot; Placeholder=&quot;Optional&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;6&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt;&#10;&#10;            &lt;!-- Calculate --&gt;&#10;            &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;7&quot; Grid.ColumnSpan=&quot;2&quot; HeightRequest=&quot;70&quot; /&gt;&#10;            &lt;Button Clicked=&quot;RecalculateResult&quot; Grid.Row=&quot;7&quot; Grid.ColumnSpan=&quot;2&quot; Text=&quot;Calculate&quot; HorizontalOptions=&quot;Center&quot; VerticalOptions=&quot;Center&quot; HeightRequest=&quot;40&quot; WidthRequest=&quot;250&quot; TextColor=&quot;Teal&quot; BackgroundColor=&quot;##191919&quot;/&gt;&#10;&#10;        &lt;/Grid&gt;.../&gt;" />
+            <marker date="1551020990473" expanded="true" signature="524:4340" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;AUTO&quot; /&gt;&#10;                &lt;RowDefinition Height=&quot;*&quot; /&gt;&#10;            &lt;/Grid.RowDefinitions&gt; &lt;Grid.ColumnDefinitions&gt;&#10;                &lt;ColumnDefinition Width=&quot;5*&quot;/&gt;&#10;                &lt;ColumnDefinition Width=&quot;5*&quot;/&gt;&#10;            &lt;/Grid.ColumnDefinitions&gt; &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;1&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt; &lt;Label Text=&quot;Copper&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;1&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot; /&gt; &lt;Entry x:Name=&quot;copperEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;1&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt; &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;2&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt; &lt;Label Text=&quot;Silver&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;2&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt; &lt;Entry x:Name=&quot;silverEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;2&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt; &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;3&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt; &lt;Label Text=&quot;Electrum&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;3&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt; &lt;Entry x:Name=&quot;electrumEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;3&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt; &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;4&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt; &lt;Label Text=&quot;Gold&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;4&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt; &lt;Entry x:Name=&quot;goldEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;4&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt; &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;5&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt; &lt;Label Text=&quot;Platinum&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;5&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt; &lt;Entry x:Name=&quot;platinumEntry&quot; Placeholder=&quot;0&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;5&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt; &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;6&quot; HeightRequest=&quot;55&quot; Grid.ColumnSpan=&quot;2&quot;/&gt; &lt;Label Text=&quot;Team size&quot; TextColor=&quot;##ffffff&quot; Grid.Row=&quot;6&quot; Grid.Column=&quot;0&quot; VerticalTextAlignment=&quot;Center&quot; &#10;               TranslationX=&quot;30&quot; Font=&quot;16&quot;/&gt; &lt;Entry x:Name=&quot;teamSizeEntry&quot; Placeholder=&quot;Optional&quot; Keyboard=&quot;Numeric&quot; Grid.Row=&quot;6&quot; Grid.Column=&quot;1&quot; TranslationX=&quot;15&quot; TextColor=&quot;White&quot; /&gt; &lt;BoxView BackgroundColor=&quot;White&quot; Opacity=&quot;0.10&quot; Grid.Row=&quot;7&quot; Grid.ColumnSpan=&quot;2&quot; HeightRequest=&quot;70&quot; /&gt; &lt;Button Clicked=&quot;RecalculateResult&quot; Grid.Row=&quot;7&quot; Grid.ColumnSpan=&quot;2&quot; Text=&quot;Calculate&quot; HorizontalOptions=&quot;Center&quot; VerticalOptions=&quot;Center&quot; HeightRequest=&quot;40&quot; WidthRequest=&quot;250&quot; TextColor=&quot;Teal&quot; BackgroundColor=&quot;##191919&quot;/&gt;.../&gt;" />
+            <marker date="1551020990473" expanded="true" signature="643:1080" ph="&lt;&lt;RowDefinition Height=&quot;AUTO&quot; /&gt; &lt;RowDefinition Height=&quot;AUTO&quot; /&gt; &lt;RowDefinition Height=&quot;AUTO&quot; /&gt; &lt;RowDefinition Height=&quot;AUTO&quot; /&gt; &lt;RowDefinition Height=&quot;AUTO&quot; /&gt; &lt;RowDefinition Height=&quot;AUTO&quot; /&gt; &lt;RowDefinition Height=&quot;AUTO&quot; /&gt; &lt;RowDefinition Height=&quot;*&quot; /&gt;.../&gt;" />
+            <marker date="1551020990473" expanded="true" signature="1093:1249" ph="&lt;&lt;ColumnDefinition Width=&quot;5*&quot;/&gt; &lt;ColumnDefinition Width=&quot;5*&quot;/&gt;.../&gt;" />
+            <marker date="1551020990473" expanded="true" signature="1407:1554" ph="&lt;.../&gt;" />
+            <marker date="1551020990473" expanded="true" signature="1853:1999" ph="&lt;.../&gt;" />
+            <marker date="1551020990473" expanded="true" signature="2300:2448" ph="&lt;.../&gt;" />
+            <marker date="1551020990473" expanded="true" signature="2747:2891" ph="&lt;.../&gt;" />
+            <marker date="1551020990473" expanded="true" signature="3190:3338" ph="&lt;.../&gt;" />
+            <marker date="1551020990473" expanded="true" signature="3642:3791" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/Resources/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DnDConvertv3/DnDConvertv3/App.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+          <folding>
+            <marker date="1551021849891" expanded="false" signature="6:60" ph="..." />
+            <marker date="1551021849891" expanded="true" signature="144:794" ph="{...}" />
+            <marker date="1551021849891" expanded="true" signature="189:792" ph="{...}" />
+            <marker date="1551021849891" expanded="true" signature="216:466" ph="{...}" />
+            <marker date="1551021849891" expanded="true" signature="333:455" ph="{...}" />
+            <marker date="1551021849891" expanded="true" signature="509:572" ph="{...}" />
+            <marker date="1551021849891" expanded="true" signature="615:678" ph="{...}" />
+            <marker date="1551021849891" expanded="true" signature="722:786" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DnDConvertv3/DnDConvertv3.Android/MainActivity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <marker date="1551022010599" expanded="false" signature="6:143" ph="..." />
+            <marker date="1551022010599" expanded="true" signature="173:838" ph="{...}" />
+            <marker date="1551022010599" expanded="true" signature="465:836" ph="{...}" />
+            <marker date="1551022010599" expanded="true" signature="539:830" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

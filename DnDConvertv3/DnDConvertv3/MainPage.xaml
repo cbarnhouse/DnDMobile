@@ -7,7 +7,7 @@
              BackgroundColor="#1e1e1e">
 
     <ContentPage.ToolbarItems>
-        <ToolbarItem Name="Clear" Order="Primary" Text="Clear" Priority="0" Activated="Clear_Activated"/>
+        <ToolbarItem Order="Primary" Text="Clear" Priority="0" Clicked="Clear_Activated"/>
     </ContentPage.ToolbarItems>
 
     <ScrollView>

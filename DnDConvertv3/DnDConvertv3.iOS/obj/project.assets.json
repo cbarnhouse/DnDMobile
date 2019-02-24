@@ -719,11 +719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Christopher\\Documents\\Visual Studio Projects\\DnDConvertv3\\DnDConvertv3\\DnDConvertv3.iOS\\DnDConvertv3.iOS.csproj",
+      "projectUniqueName": "D:\\Christopher\\Documents\\DnDMobile\\DnDConvertv3\\DnDConvertv3.iOS\\DnDConvertv3.iOS.csproj",
       "projectName": "DnDConvertv3.iOS",
-      "projectPath": "D:\\Christopher\\Documents\\Visual Studio Projects\\DnDConvertv3\\DnDConvertv3\\DnDConvertv3.iOS\\DnDConvertv3.iOS.csproj",
+      "projectPath": "D:\\Christopher\\Documents\\DnDMobile\\DnDConvertv3\\DnDConvertv3.iOS\\DnDConvertv3.iOS.csproj",
       "packagesPath": "C:\\Users\\Christopher\\.nuget\\packages\\",
-      "outputPath": "D:\\Christopher\\Documents\\Visual Studio Projects\\DnDConvertv3\\DnDConvertv3\\DnDConvertv3.iOS\\obj\\",
+      "outputPath": "D:\\Christopher\\Documents\\DnDMobile\\DnDConvertv3\\DnDConvertv3.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Christopher\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -739,8 +739,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\Christopher\\Documents\\Visual Studio Projects\\DnDConvertv3\\DnDConvertv3\\DnDConvertv3\\DnDConvertv3.csproj": {
-              "projectPath": "D:\\Christopher\\Documents\\Visual Studio Projects\\DnDConvertv3\\DnDConvertv3\\DnDConvertv3\\DnDConvertv3.csproj"
+            "D:\\Christopher\\Documents\\DnDMobile\\DnDConvertv3\\DnDConvertv3\\DnDConvertv3.csproj": {
+              "projectPath": "D:\\Christopher\\Documents\\DnDMobile\\DnDConvertv3\\DnDConvertv3\\DnDConvertv3.csproj"
             }
           }
         }

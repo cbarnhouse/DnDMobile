@@ -7494,11 +7494,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Christopher\\Documents\\Visual Studio Projects\\DnDConvertv3\\DnDConvertv3\\DnDConvertv3.UWP\\DnDConvertv3.UWP.csproj",
+      "projectUniqueName": "D:\\Christopher\\Documents\\DnDMobile\\DnDConvertv3\\DnDConvertv3.UWP\\DnDConvertv3.UWP.csproj",
       "projectName": "DnDConvertv3.UWP",
-      "projectPath": "D:\\Christopher\\Documents\\Visual Studio Projects\\DnDConvertv3\\DnDConvertv3\\DnDConvertv3.UWP\\DnDConvertv3.UWP.csproj",
+      "projectPath": "D:\\Christopher\\Documents\\DnDMobile\\DnDConvertv3\\DnDConvertv3.UWP\\DnDConvertv3.UWP.csproj",
       "packagesPath": "C:\\Users\\Christopher\\.nuget\\packages\\",
-      "outputPath": "D:\\Christopher\\Documents\\Visual Studio Projects\\DnDConvertv3\\DnDConvertv3\\DnDConvertv3.UWP\\obj\\",
+      "outputPath": "D:\\Christopher\\Documents\\DnDMobile\\DnDConvertv3\\DnDConvertv3.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages"
@@ -7517,8 +7517,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "D:\\Christopher\\Documents\\Visual Studio Projects\\DnDConvertv3\\DnDConvertv3\\DnDConvertv3\\DnDConvertv3.csproj": {
-              "projectPath": "D:\\Christopher\\Documents\\Visual Studio Projects\\DnDConvertv3\\DnDConvertv3\\DnDConvertv3\\DnDConvertv3.csproj"
+            "D:\\Christopher\\Documents\\DnDMobile\\DnDConvertv3\\DnDConvertv3\\DnDConvertv3.csproj": {
+              "projectPath": "D:\\Christopher\\Documents\\DnDMobile\\DnDConvertv3\\DnDConvertv3\\DnDConvertv3.csproj"
             }
           }
         }
