@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:DnDConvertv3"
+             x:Class="DnDConvertv3.ResultsPage"
+            BackgroundColor="#1e1e1e">
+
+    <ContentPage.Content>
+        <Grid RowSpacing="7" ColumnSpacing="10" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="10*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="10*" />
+            </Grid.ColumnDefinitions>
+
+
+
+
+
+
+            <!-- results -->
+
+            <ListView x:Name="resultList" RowHeight="30" Grid.Row="0" Grid.Column="0" VerticalOptions="Center" HorizontalOptions="Center" SeparatorVisibility="None" HeightRequest="150" TranslationY="10" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center" Spacing="10" >
+                                <StackLayout Orientation="Vertical" VerticalOptions="Center"  HorizontalOptions="Center" Spacing="10" >
+                                    <Label Text="{Binding totalCurrencyString}" Font="18" TextColor="Teal" HorizontalOptions="Center" VerticalOptions="Center" />
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

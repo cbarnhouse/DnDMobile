@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:DnDConvertv3"
+             x:Class="DnDConvertv3.MainPage"
+             Title="D&amp;D Convert"
+             BackgroundColor="#1e1e1e">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Name="Clear" Order="Primary" Text="Clear" Priority="0" Activated="Clear_Activated"/>
+    </ContentPage.ToolbarItems>
+
+    <ScrollView>
+        <Grid RowSpacing="7" ColumnSpacing="10" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="AUTO" />
+                <RowDefinition Height="AUTO" />
+                <RowDefinition Height="AUTO" />
+                <RowDefinition Height="AUTO" />
+                <RowDefinition Height="AUTO" />
+                <RowDefinition Height="AUTO" />
+                <RowDefinition Height="AUTO" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="5*"/>
+                <ColumnDefinition Width="5*"/>
+            </Grid.ColumnDefinitions>
+
+
+
+            <!-- Copper -->
+            <BoxView BackgroundColor="White" Opacity="0.10" Grid.Row="1" HeightRequest="55" Grid.ColumnSpan="2"/>
+            <Label Text="Copper" TextColor="#ffffff" Grid.Row="1" Grid.Column="0" VerticalTextAlignment="Center" 
+               TranslationX="30" Font="16" />
+            <Entry x:Name="copperEntry" Placeholder="0" Keyboard="Numeric" Grid.Row="1" Grid.Column="1" TranslationX="15" TextColor="White" />
+
+            <!-- Silver -->
+            <BoxView BackgroundColor="White" Opacity="0.10" Grid.Row="2" HeightRequest="55" Grid.ColumnSpan="2"/>
+            <Label Text="Silver" TextColor="#ffffff" Grid.Row="2" Grid.Column="0" VerticalTextAlignment="Center" 
+               TranslationX="30" Font="16"/>
+            <Entry x:Name="silverEntry" Placeholder="0" Keyboard="Numeric" Grid.Row="2" Grid.Column="1" TranslationX="15" TextColor="White" />
+
+            <!-- Electrum -->
+            <BoxView BackgroundColor="White" Opacity="0.10" Grid.Row="3" HeightRequest="55" Grid.ColumnSpan="2"/>
+            <Label Text="Electrum" TextColor="#ffffff" Grid.Row="3" Grid.Column="0" VerticalTextAlignment="Center" 
+               TranslationX="30" Font="16"/>
+            <Entry x:Name="electrumEntry" Placeholder="0" Keyboard="Numeric" Grid.Row="3" Grid.Column="1" TranslationX="15" TextColor="White" />
+
+            <!-- Gold -->
+            <BoxView BackgroundColor="White" Opacity="0.10" Grid.Row="4" HeightRequest="55" Grid.ColumnSpan="2"/>
+            <Label Text="Gold" TextColor="#ffffff" Grid.Row="4" Grid.Column="0" VerticalTextAlignment="Center" 
+               TranslationX="30" Font="16"/>
+            <Entry x:Name="goldEntry" Placeholder="0" Keyboard="Numeric" Grid.Row="4" Grid.Column="1" TranslationX="15" TextColor="White" />
+
+            <!-- Platinum -->
+            <BoxView BackgroundColor="White" Opacity="0.10" Grid.Row="5" HeightRequest="55" Grid.ColumnSpan="2"/>
+            <Label Text="Platinum" TextColor="#ffffff" Grid.Row="5" Grid.Column="0" VerticalTextAlignment="Center" 
+               TranslationX="30" Font="16"/>
+            <Entry x:Name="platinumEntry" Placeholder="0" Keyboard="Numeric" Grid.Row="5" Grid.Column="1" TranslationX="15" TextColor="White" />
+
+            <!-- Team Size -->
+            <BoxView BackgroundColor="White" Opacity="0.10" Grid.Row="6" HeightRequest="55" Grid.ColumnSpan="2"/>
+            <Label Text="Team size" TextColor="#ffffff" Grid.Row="6" Grid.Column="0" VerticalTextAlignment="Center" 
+               TranslationX="30" Font="16"/>
+            <Entry x:Name="teamSizeEntry" Placeholder="Optional" Keyboard="Numeric" Grid.Row="6" Grid.Column="1" TranslationX="15" TextColor="White" />
+
+            <!-- Calculate -->
+            <BoxView BackgroundColor="White" Opacity="0.10" Grid.Row="7" Grid.ColumnSpan="2" HeightRequest="70" />
+            <Button Clicked="RecalculateResult" Grid.Row="7" Grid.ColumnSpan="2" Text="Calculate" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="40" WidthRequest="250" TextColor="Teal" BackgroundColor="#191919"/>
+
+        </Grid>
+
+
+    </ScrollView>
+</ContentPage>

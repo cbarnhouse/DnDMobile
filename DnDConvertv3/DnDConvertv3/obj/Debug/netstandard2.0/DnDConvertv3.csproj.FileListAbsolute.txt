@@ -1,0 +1,14 @@
+D:\Christopher\Documents\Visual Studio Projects\DnDConvertv3\DnDConvertv3\DnDConvertv3\bin\Debug\netstandard2.0\DnDConvertv3.deps.json
+D:\Christopher\Documents\Visual Studio Projects\DnDConvertv3\DnDConvertv3\DnDConvertv3\bin\Debug\netstandard2.0\DnDConvertv3.dll
+D:\Christopher\Documents\Visual Studio Projects\DnDConvertv3\DnDConvertv3\DnDConvertv3\bin\Debug\netstandard2.0\DnDConvertv3.pdb
+D:\Christopher\Documents\Visual Studio Projects\DnDConvertv3\DnDConvertv3\DnDConvertv3\obj\Debug\netstandard2.0\DnDConvertv3.csprojAssemblyReference.cache
+D:\Christopher\Documents\Visual Studio Projects\DnDConvertv3\DnDConvertv3\DnDConvertv3\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Christopher\Documents\Visual Studio Projects\DnDConvertv3\DnDConvertv3\DnDConvertv3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Christopher\Documents\Visual Studio Projects\DnDConvertv3\DnDConvertv3\DnDConvertv3\obj\Debug\netstandard2.0\ResultsPage.xaml.g.cs
+D:\Christopher\Documents\Visual Studio Projects\DnDConvertv3\DnDConvertv3\DnDConvertv3\obj\Debug\netstandard2.0\DnDConvertv3.csproj.CoreCompileInputs.cache
+D:\Christopher\Documents\Visual Studio Projects\DnDConvertv3\DnDConvertv3\DnDConvertv3\obj\Debug\netstandard2.0\DnDConvertv3.AssemblyInfoInputs.cache
+D:\Christopher\Documents\Visual Studio Projects\DnDConvertv3\DnDConvertv3\DnDConvertv3\obj\Debug\netstandard2.0\DnDConvertv3.AssemblyInfo.cs
+D:\Christopher\Documents\Visual Studio Projects\DnDConvertv3\DnDConvertv3\DnDConvertv3\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Christopher\Documents\Visual Studio Projects\DnDConvertv3\DnDConvertv3\DnDConvertv3\obj\Debug\netstandard2.0\DnDConvertv3.dll
+D:\Christopher\Documents\Visual Studio Projects\DnDConvertv3\DnDConvertv3\DnDConvertv3\obj\Debug\netstandard2.0\DnDConvertv3.pdb
+D:\Christopher\Documents\Visual Studio Projects\DnDConvertv3\DnDConvertv3\DnDConvertv3\obj\Debug\netstandard2.0\Page1.xaml.g.cs
